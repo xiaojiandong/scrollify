@@ -1,2 +1,2 @@
 # scrollify
-scrollify全屏滚动
+## 滚动鼠标，页面全屏滑动
